@@ -31,7 +31,7 @@ Application réalisée en React JS avec l'utilisation de "REST Countries API".
 
 Fonctionnalités de l'application :
 * Listing des pays du monde entier
-* Affichage de la capitale et le population pour chaque pays
+* Affichage de la capitale et de la population pour chaque pays
 * Filtrage par continent
 * Filtrage par population
 
