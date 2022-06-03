@@ -19,12 +19,12 @@
 
 ### Page d'accueil
 <p align="left">
-  <img src="./Capture d’écran 2022-06-03 à 10.56.00.png" width="450" title="hover text">
+  <img src="./Capture d’écran 2022-06-03 à 10.56.00.png" width="100%" title="hover text">
 </p>
 
 ### Exemple de filtrage du continent "Afrique"
 <p align="left">
-  <img src="./Capture d’écran 2022-06-03 à 10.56.30.png" width="450" title="hover text">
+  <img src="./Capture d’écran 2022-06-03 à 10.56.30.png" width="100%" title="hover text">
 </p>
 
 Application réalisée en React JS avec l'utilisation de "REST Countries API". 
